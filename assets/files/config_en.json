@@ -1,0 +1,37 @@
+{
+  "register" : {
+    "header_title": "Register Now",
+    "header_description": "Enter your detail below",
+    "textformfield": {
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "mobile": "Mobile Number i.e. 03xxxxxxxxx",
+      "email": "Email",
+      "password": "Password"
+    },
+    "submit": "Continue",
+    "alternate": "Existing user login"
+  },
+  "login" : {
+    "header_title": "Login",
+    "header_description": "Enter your detail below",
+    "textformfield": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "submit": "Sign in",
+    "alternate": "Forget Password"
+  },
+  "forgotpassword" : {
+    "header_title": "Forgot Password",
+    "header_description": "Enter your detail below",
+    "textformfield": {
+      "oldpassword": "Old Password",
+      "newpassword": "New Password",
+      "confirmpassword": "Confirm Password",
+      "email": "Enter your email"
+    },
+    "submit": "Submit",
+    "alternate": ""
+  }
+}

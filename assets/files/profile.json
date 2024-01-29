@@ -1,0 +1,57 @@
+{
+  "status": "Success",
+  "message": "Profile Data",
+  "data": [
+    {
+      "sectionIdentifier": "profile_header",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "image_url": "https://enaam.pk/images/Profile/1681403412045Fasi.png",
+          "title": "Faisal Asif",
+          "email": "ravian00@gmail.com"
+        }
+      ]
+    },
+    {
+      "sectionIdentifier": "profile_details",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "title_pd": "Personal Details",
+          "image_url_pd": "https://i.ibb.co/26VGnD2/samsung.png",
+          "title_log": "Logout",
+          "image_url_log": "https://i.ibb.co/26VGnD2/samsung.png",
+          "title_lng": "Language",
+          "image_url_lng": "https://i.ibb.co/26VGnD2/samsung.png",
+          "title_chng": "Change Password",
+          "image_url_chng": "https://i.ibb.co/26VGnD2/samsung.png"
+        }
+      ]
+    },
+    {
+      "sectionIdentifier": "contact_us",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "btn1_title": "CALL US",
+          "c_phone": "090078601",
+          "btn2_title": "EMAIL US",
+          "c_email": "info@enaam.pk"
+        }
+      ]
+    },
+    {
+      "sectionIdentifier": "social",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "facebook": "https://www.facebook.com/amanahmall/",
+          "twitter": "https://twitter.com/TheAmanahMall",
+          "whatsapp": "whatsapp.com",
+          "instgram": "https://www.instagram.com/amanahmall/"
+        }
+      ]
+    }
+  ]
+}

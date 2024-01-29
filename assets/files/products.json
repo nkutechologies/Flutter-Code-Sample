@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "TestTicket1",
+      "description": "100 Rupees Ticket for lucky draw and win Toyota",
+      "price": 100.00,
+      "quantity": 2100,
+      "sold": 1,
+      "drawDate": "2023-04-02",
+      "rewardId": 1,
+      "reward": {
+        "id": 1,
+        "description": "This is a very good product",
+        "image": "https://enaam.pk/images/Reward/ifone.png",
+        "name": "iPhone 14 pro max"
+      },
+      "productImage": "https://enaam.pk/images/Product/ifone.png"
+    },
+    {
+      "id": 2,
+      "name": "TestTicket1",
+      "description": "100 Rupees Ticket for lucky draw and win Toyota",
+      "price": 100.00,
+      "quantity": 2500,
+      "sold": 1200,
+      "drawDate": "2023-04-02",
+      "rewardId": 1,
+      "reward": {
+        "id": 1,
+        "description": "This is a very good product",
+        "image": "https://enaam.pk/images/Reward/ifone.png",
+        "name": "iPhone 14 pro max"
+      },
+      "productImage": "https://enaam.pk/images/Product/not.png"
+    },
+    {
+      "id": 3,
+      "name": "TestTicket1",
+      "description": "100 Rupees Ticket for lucky draw and win Toyota",
+      "price": 100.00,
+      "quantity": 2500,
+      "sold": 1200,
+      "drawDate": "2023-05-09",
+      "rewardId": 1,
+      "reward": {
+        "id": 1,
+        "description": "This is a very good product",
+        "image": "https://enaam.pk/images/Reward/ifone.png",
+        "name": "iPhone 14 pro max"
+      },
+      "productImage": "https://enaam.pk/images/Product/not.png"
+    },
+    {
+      "id": 4,
+      "name": "TestTicket2",
+      "description": "Get Brand new Alto",
+      "price": 200.00,
+      "quantity": 5,
+      "sold": 4,
+      "drawDate": "2023-05-09",
+      "rewardId": 2,
+      "reward": {
+        "id": 2,
+        "description": "Loaded with full options",
+        "image": "https://enaam.pk/images/Reward/alto.png",
+        "name": "Suzuki Alto"
+      },
+      "productImage": "https://enaam.pk/images/Product/not.png"
+    },
+    {
+      "id": 5,
+      "name": "Alto",
+      "description": "Just with a entry off 200 rupees get a chance to win car",
+      "price": 200.00,
+      "quantity": 50000,
+      "sold": 1,
+      "drawDate": "2023-05-08",
+      "rewardId": 3,
+      "reward": {
+        "id": 3,
+        "description": "Fully loaded Car",
+        "image": "https://enaam.pk/images/Reward/alto.png",
+        "name": "Alto"
+      },
+      "productImage": "https://enaam.pk/images/Product/not.png"
+    }
+  ],
+  "message": "Data Populated Successfully",
+  "status": "Success"
+}

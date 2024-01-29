@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "sectionIdentifier": "home_header",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "imageUrl": "https://i.ibb.co/CnFq66t/home-car.png",
+          "desc": "100 Rupees Ticket for lucky draw and win MG"
+        }
+      ]
+    },
+    {
+      "sectionIdentifier": "fast_selling",
+      "sectionTitle": "",
+      "sectionData": []
+    },
+    {
+      "sectionIdentifier": "home_banner",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "imageUrl": "https://i.ibb.co/MnTDGFR/test-banner-1.png",
+          "desc": "Banner image will be loaded from api"
+        }
+      ]
+    },
+    {
+      "sectionIdentifier": "home_adds",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "title": null,
+          "totalSold": "1",
+          "totalAvailable": "2100",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "This is a very good product",
+          "buttonTitle": "Add to Cart",
+          "productId": 1
+        },
+        {
+          "title": null,
+          "totalSold": "1200",
+          "totalAvailable": "2500",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "This is a very good product",
+          "buttonTitle": "Add to Cart",
+          "productId": 2
+        },
+        {
+          "title": null,
+          "totalSold": "1200",
+          "totalAvailable": "2500",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "This is a very good product",
+          "buttonTitle": "Add to Cart",
+          "productId": 3
+        },
+        {
+          "title": null,
+          "totalSold": "4",
+          "totalAvailable": "5",
+          "imageUrl": "https://enaam.pk/images/Reward/alto.png",
+          "desc": "Loaded with full options",
+          "buttonTitle": "Add to Cart",
+          "productId": 4
+        },
+        {
+          "title": null,
+          "totalSold": "1",
+          "totalAvailable": "50000",
+          "imageUrl": "https://enaam.pk/images/Reward/alto.png",
+          "desc": "Fully loaded Car",
+          "buttonTitle": "Add to Cart",
+          "productId": 5
+        }
+      ]
+    }
+  ],
+  "message": "Data Populated Successfully",
+  "status": "Success"
+}

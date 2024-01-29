@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "sectionIdentifier": "live_draws",
+      "sectionTitle": "",
+      "sectionData": [
+        {
+          "thumbnailImage": "https://enaam.pk/images/thumbnails/velocity.PNG",
+          "videoUrl": "https://www.youtube.com/watch?v=7yawFINCCoA",
+          "drawDate": "2023-04-02"
+        },
+        {
+          "thumbnailImage": "https://enaam.pk/images/thumbnails/velocity.PNG",
+          "videoUrl": "https://www.youtube.com/watch?v=7yawFINCCoA",
+          "drawDate": "2023-04-02"
+        }
+      ]
+    },
+    {
+      "sectionIdentifier": "winners",
+      "sectionTitle": "Winners",
+      "sectionData": [
+        {
+          "title": "Congratulations",
+          "winnerName": "Abdullah",
+          "winTitle": "on winning",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "iPhone 14 pro max",
+          "ticket_no": "LS-0123-4762-D",
+          "drawDate": "2023-04-30"
+        },
+        {
+          "title": "Congratulations",
+          "winnerName": "Faisal",
+          "winTitle": "on winning",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "iPhone 14 pro max",
+          "ticket_no": "LS-0123-4762-D",
+          "drawDate": "2023-04-03"
+        },
+        {
+          "title": "Congratulations",
+          "winnerName": "Jasim",
+          "winTitle": "on winning",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "iPhone 14 pro max",
+          "ticket_no": "LS-0123-4762-D",
+          "drawDate": "2023-04-12"
+        },
+        {
+          "title": "Congratulations",
+          "winnerName": "Ali",
+          "winTitle": "on winning",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "iPhone 14 pro max",
+          "ticket_no": "LS-0123-4762-D",
+          "drawDate": "2023-04-02"
+        },
+        {
+          "title": "Congratulations",
+          "winnerName": "Akbar",
+          "winTitle": "on winning",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "iPhone 14 pro max",
+          "ticket_no": "LS-0123-4762-D",
+          "drawDate": "2023-04-02"
+        },
+        {
+          "title": "Congratulations",
+          "winnerName": "Usman",
+          "winTitle": "on winning",
+          "imageUrl": "https://enaam.pk/images/Reward/ifone.png",
+          "desc": "iPhone 14 pro max",
+          "ticket_no": "LS-0123-4762-D",
+          "drawDate": "2023-04-02"
+        }
+      ]
+    }
+  ],
+  "message": "Data Populated Successfully",
+  "status": "Success"
+}

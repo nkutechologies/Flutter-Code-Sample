@@ -1,0 +1,29 @@
+{
+  "status": "Success",
+  "message": "Tickets",
+  "data": {
+    "tickets": [
+      {
+        "id": 1,
+        "name": "TestTicket1",
+        "price": 100.00,
+        "maxDrawDate": "31 January, 9:30 PM",
+        "imageUrl": "https://enaam.pk/images/Product/ifone.png"
+      },
+      {
+        "id": 1,
+        "name": "TestTicket1",
+        "price": 100.00,
+        "maxDrawDate": "31 January, 9:30 PM",
+        "imageUrl": "https://enaam.pk/images/Product/ifone.png"
+      },
+      {
+        "id": 1,
+        "name": "TestTicket1",
+        "price": 100.00,
+        "maxDrawDate": "31 January, 9:30 PM",
+        "imageUrl": "https://enaam.pk/images/Product/ifone.png"
+      }
+    ]
+  }
+}

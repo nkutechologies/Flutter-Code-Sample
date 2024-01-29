@@ -1,0 +1,40 @@
+{
+  "status": "Success",
+  "message": "Cart",
+  "data": {
+    "products": [
+      {
+        "id": 2,
+        "productId": 1,
+        "name": "TestTicket1",
+        "desc": "100 Rupees Ticket for lucky draw and win Toyota",
+        "price": 100.00,
+        "quantity": 5,
+        "total": 500.00,
+        "productImage": "https://enaam.pk/images/Product/ifone.png"
+      },
+      {
+        "id": 16,
+        "productId": 2,
+        "name": "TestTicket1",
+        "desc": "100 Rupees Ticket for lucky draw and win Toyota",
+        "price": 100.00,
+        "quantity": 1,
+        "total": 100.00,
+        "productImage": "https://enaam.pk/images/Product/not.png"
+      },
+      {
+        "id": 26,
+        "productId": 3,
+        "name": "TestTicket1",
+        "desc": "100 Rupees Ticket for lucky draw and win Toyota",
+        "price": 100.00,
+        "quantity": 1,
+        "total": 100.00,
+        "productImage": "https://enaam.pk/images/Product/not.png"
+      }
+    ],
+    "subTotal": 700.00,
+    "total": 700.00
+  }
+}

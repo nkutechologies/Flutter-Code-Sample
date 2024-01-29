@@ -1,0 +1,26 @@
+const String BASE_URL = "enaam.pk";
+
+const String SIGNUP = "api/users/signup";
+const String SIGNIN = "api/users/signin";
+const String PAYMENT = "api/payment/mob-process";
+const String FORGOT_PASS = "api/users/forgotPassword";
+const String QUESTION_ANSWER = "api/questions/quiz-answer";
+const String ADDTOCART = "api/cart/addToCart";
+const String ADDPRODUCTTOCART = "api/cart/addProductToCart";
+const String REMOVEFROMCART = "api/cart/removeFromCart";
+const String FORGOT_PASS_UPDATE = "api/users/forgotPasswordUpdate";
+const String HOME_PAGE = "api/products/homepage";
+const String QUIZ_QUESTION = "api/questions/quiz-question";
+const String PROFILE_PAGE = "api/users/profile/";
+const String GENERATE_OTP = "api/users/generateOTP/";
+const String VERIFY_OTP = "api/users/verify/";
+const String PROFILE_DETAIL_PAGE = "api/users/profileDetails/";
+const String UPDATE_PROFILE = "api/users/updateProfile";
+const String CHANGE_PASSWORD = "api/users/changePassword";
+const String UPDATE_PROFILE_PIC = "api/users/updateProfilePicture";
+const String NOTIFICATIONS = "api/notifications/";
+const String DRAWS = "api/products/drawData";
+const String PRODUCTS = "api/products/mob/getProducts";
+const String WINNERS = "api/products/mob/get-winners";
+const String TICKETS = "api/tickets/";
+const String GET_CART = "api/cart/";
