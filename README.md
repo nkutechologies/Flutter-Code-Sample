@@ -14,8 +14,8 @@ Enaam is a mobile application developed with Flutter that enables users to condu
 8. **User Authentication:** Secure user authentication to access draw management features and prevent unauthorized access.
 
 ## Installation:
-1. Clone the repository from GitHub: `git clone https://github.com/your_username/FlutterPrizeDraw.git`
-2. Navigate to the project directory: `cd FlutterPrizeDraw`
+1. Clone the repository from GitHub: `git clone https://github.com/nkutechologies/Flutter-Code-Sample.git`
+2. Navigate to the project directory: `cd Flutter-Code-Sample`
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
 
